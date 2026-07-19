@@ -134,9 +134,9 @@ const cakes = [
   { name: "Velvet Cherry", desc: "Dark chocolate mousse, Morello cherry compote, mirror glaze", price: "₹3,800", rating: 4.9, img: "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&q=90&fit=crop" },
   { name: "Golden Macaron Tower", desc: "Vanilla bean cream, rose water, edible gold leaf", price: "₹4,200", rating: 5.0, img: "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=600&q=90&fit=crop" },
   { name: "Tiramisu Entremets", desc: "Mascarpone espresso, cocoa snow, Savoiardi base", price: "₹3,200", rating: 4.8, img: "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=600&q=90&fit=crop" },
-  { name: "Praline Millefeuille", desc: "Hazelnut praline, feuilletine crunch, crisp pastry", price: "₹2,800", rating: 4.9, img: "https://images.unsplash.com/photo-1519915028121-7d3463d5b1ff?w=600&q=90&fit=crop" },
-  { name: "Citrus Tart Royale", desc: "Meyer lemon curd, yuzu, burnt meringue crown", price: "₹2,400", rating: 4.7, img: "https://images.unsplash.com/photo-1562440499-64e9a5ef239d?w=600&q=90&fit=crop" },
-  { name: "Paris-Brest Noir", desc: "Praline mousseline, choux pastry, blackcurrant", price: "₹3,600", rating: 4.9, img: "https://images.unsplash.com/photo-1488477181228-bfca4527cb68?w=600&q=90&fit=crop" },
+  { name: "Praline Millefeuille", desc: "Hazelnut praline, feuilletine crunch, crisp pastry", price: "₹2,800", rating: 4.9, img: "https://images.unsplash.com/photo-1703529021659-d4d45c62f483?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+  { name: "Citrus Tart Royale", desc: "Meyer lemon curd, yuzu, burnt meringue crown", price: "₹2,400", rating: 4.7, img: "https://media.istockphoto.com/id/1299866470/photo/colorful-gourmet-dessert-of-citrus-tart-with-white-chocolate-sticks.jpg?s=2048x2048&w=is&k=20&c=KwVK_MRj6xegt5IzYS7vlW4TRE0ZvYq_SD2OCnnIBB4=" },
+  { name: "Paris-Brest Noir", desc: "Praline mousseline, choux pastry, blackcurrant", price: "₹3,600", rating: 4.9, img: "https://images.unsplash.com/photo-1593424718424-cf4d83f3def1?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
 ];
  
 function Stars({ n }) {
