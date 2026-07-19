@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import { motion, useScroll, useTransform, useInView, AnimatePresence } from "framer-motion";
  
 const CHERRY = "#C8102E";
-const ESPRESSO = "#1C1009";
+const ESPRESSO = "#e0d5c5";
 const CREAM = "#FFFCF8";
 const MUTED = "#a27d5a";
 const GOLD = "#B8973A";
